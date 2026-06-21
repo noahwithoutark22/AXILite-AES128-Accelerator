@@ -41,5 +41,41 @@ A high-performance, fully pipelined AES-128 encryption engine designed for crypt
 - Stall-safe pipeline with valid signal tracking
 - Efficient MixColumns using XOR + shift (no multipliers)
 
+## Encryption Results
+
+### ECB Mode
+
+#### Test Image 1
+
+| Original Image | Encrypted Image |
+|:--------------:|:---------------:|
+| <img src="assets/ecb/original_lena.png" width="300"> | <img src="assets/ecb/encrypted_lena.png" width="300"> |
+
+---
+
+#### Test Image 2
+
+| Original Image | Encrypted Image |
+|:--------------:|:---------------:|
+| <img src="assets/ecb/original_peppers.png" width="300"> | <img src="assets/ecb/encrypted_peppers.png" width="300"> |
+
+---
+
+### CTR Mode
+
+#### Test Image 1
+
+| Original Image | Encrypted Image |
+|:--------------:|:---------------:|
+| <img src="assets/ctr/original_lena.png" width="300"> | <img src="assets/ctr/encrypted_lena.png" width="300"> |
+
+---
+
+#### Test Image 2
+
+| Original Image | Encrypted Image |
+|:--------------:|:---------------:|
+| <img src="assets/ctr/original_peppers.png" width="300"> | <img src="assets/ctr/encrypted_peppers.png" width="300"> |
+
 
 
