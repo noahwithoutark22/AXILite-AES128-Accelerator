@@ -49,7 +49,7 @@ A high-performance, fully pipelined AES-128 encryption engine designed for crypt
 
 | Original Image | Encrypted Image |
 |:--------------:|:---------------:|
-| <img src="result%20images/orig750.png" width="300"> | <img src="result%20images/encr750.png" width="300"> |
+| <img src="result%20images/orig750.png" width="800"> | <img src="result%20images/encr750.png" width="800"> |
 
 ---
 
@@ -57,7 +57,7 @@ A high-performance, fully pipelined AES-128 encryption engine designed for crypt
 
 | Original Image | Encrypted Image |
 |:--------------:|:---------------:|
-| <img src="result%20images/duck1.png" width="300"> | <img src="result%20images/duckecb.png" width="300"> |
+| <img src="result%20images/duck1.png" width="800"> | <img src="result%20images/duckecb.png" width="800"> |
 
 ---
 
@@ -67,7 +67,7 @@ A high-performance, fully pipelined AES-128 encryption engine designed for crypt
 
 | Original Image | Encrypted Image |
 |:--------------:|:---------------:|
-| <img src="result%20images/duck1.png" width="300"> | <img src="result%20images/duck2cntr.png" width="300"> |
+| <img src="result%20images/duck1.png" width="800"> | <img src="result%20images/duck2cntr.png" width="800"> |
 
 
 
