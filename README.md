@@ -1,12 +1,12 @@
 # AXILite-AES128-Accelerator
-A high-performance, fully pipelined AES-128 encryption engine designed for cryptographic workloads. Developed for the UDYAM' 26 I-CHIP competition, this IP core achieves a throughput of 16 Gbps by utilizing an 11-stage architectural pipeline.
+A high-performance, fully pipelined AES-128 encryption engine designed for cryptographic workloads. Developed for the UDYAM' 26 I-CHIP competition, this IP core achieves a throughput of 4 Gbps by utilizing an 11-stage architectural pipeline.
 
 ## Key Features
 
 - **Fully Pipelined Architecture**
   - 11-stage pipeline
   - Throughput: **1 block per clock cycle**
-  - Sustains high-speed operation (~16 Gbps @ 125 MHz)
+  - Sustains high-speed operation (~4 Gbps @ 125 MHz)
 
 - **Optimized S-Box (No LUTs)**
   - Implemented using **composite field arithmetic (GF((2⁴)²))**
